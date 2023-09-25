@@ -1,2 +1,2 @@
-# mimisbrunnr
-Mimisbrunnr, an experiment in encrypted messaging.
+# MimisBrunnr
+MimisBrunnr, an experiment in encrypted messaging.
